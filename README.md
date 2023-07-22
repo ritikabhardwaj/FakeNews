@@ -1,1 +1,1 @@
-# FakeNews
+Many controversial posts go around social media after any high impact event. It is crucial to check the credibility and truthfulness of this information. Binary classification of a given tweet as real, or fake can help the news professionals to verify their sources. Manipulation to the multimedia content can be done by associating past re-posted multimedia to current event, digitally adding elements to multimedia (manipulating it) and by synthesising multimedia. A classification algorithm is needed to detect tweets carrying misleading information.
